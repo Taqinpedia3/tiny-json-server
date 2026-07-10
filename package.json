@@ -1,0 +1,10 @@
+{
+  "name": "tiny-json-server",
+  "version": "1.0.0",
+  "description": "Smallest possible backend with two JSON endpoints.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
